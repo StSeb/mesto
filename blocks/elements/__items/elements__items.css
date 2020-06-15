@@ -5,5 +5,21 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(2, 1fr);
-  gap: 21px 18px;
+  gap: 20px 18px;
 }
+/* 
+@media screen and (max-width: 1000px) {
+  .elements__items {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .elements__items {
+    grid-template-columns: 1, 1fr;
+    grid-template-rows: repeat(6, 1fr);
+  }
+
+} */

@@ -1,10 +1,27 @@
-.profile__add-botton {
+.profile__add-button {
   width: 22px;
   height: 22px;
-  background-image: url(../../../images/profile/Add_button.svg);
+  background-image: url('../../../images/profile/Add_button.svg');
   padding: 14px 64px;
   border: 1px solid white;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  margin: auto 0 auto auto;
+  margin: 30px 0 auto auto;
 }
+
+/* @media screen and (max-width: 1279px) {
+	.profile__add-botton {
+    width: 18px;
+    height: 18px;
+    margin: 36px auto 0;
+    padding: 15px 116px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .profile__add-botton {
+    width: 16px;
+    height: 16px;
+    padding: 17px 152px;
+  }
+} */
