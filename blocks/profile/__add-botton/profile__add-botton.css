@@ -9,19 +9,12 @@
   margin: 30px 0 auto auto;
 }
 
-/* @media screen and (max-width: 1279px) {
-	.profile__add-botton {
-    width: 18px;
-    height: 18px;
-    margin: 36px auto 0;
-    padding: 15px 116px;
-  }
-}
 
 @media screen and (max-width: 767px) {
-  .profile__add-botton {
+  .profile__add-button {
     width: 16px;
     height: 16px;
-    padding: 17px 152px;
+    padding: 17px 133px;
+    margin: 36px auto 0;
   }
-} */
+}

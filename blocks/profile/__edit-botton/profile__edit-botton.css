@@ -4,5 +4,17 @@
   background-image: url('../../../images/profile/Edit_Button.svg');
   padding: 7px;
   border: 1px solid white;
-  margin: 33px 0 0 18px;
+  margin: 18px 0 auto 18px;
+}
+
+
+
+@media screen and (max-width: 767px) {
+	.profile__edit-button {
+    width: 7px;
+    height: 7px;
+    padding: 5px;
+    margin: 21px 0 0 7px;
+    background-position: 50% 50%;
+  }
 }

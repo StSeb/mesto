@@ -1,27 +1,18 @@
-/* .profile__name {
-  margin: 18px 0 0;
-  padding: 0;
-  font-size: 42px;
-  line-height: 1.3;
-  font-weight: 500;
-} */
-
 .profile__name {
   font-size: 42px;
   line-height: 1.3;
   font-weight: 500;
-  margin: 18px 0 0 30px;
+  margin: 0;
   padding: 0;
 }
-
-/* @media screen and (max-width: 1279px) {
+/* 
+@media screen and (max-width: 1279px) {
 	.profile__name {
-    margin: 0 auto 0;
+    
     font-size: 36px;
     line-height: 1.7;
-    text-align: center;
   }
-}
+} */
 
 @media screen and (max-width: 767px) {
   .profile__name {
@@ -29,4 +20,4 @@
     line-height: 2;
   }
 	
-} */
+}
