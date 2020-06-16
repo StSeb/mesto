@@ -5,6 +5,8 @@
   position: absolute;
   bottom: 30px;
   right: 20px;
+  border: none;
+  background-color: white;
 }
 
 .elements__like:hover {

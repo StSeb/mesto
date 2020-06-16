@@ -1,0 +1,18 @@
+@import url('__container/popup__container.css');
+@import url('__title/popup__title.css');
+@import url('__field/popup__field.css');
+/* @import url('__name-field/popup__name-field.css');
+@import url('__description-field/popup__description-field.css'); */
+@import url('__save-button/popup__save-button.css');
+@import url('__exit-button/popup__exit-button.css');
+@import url('__form/popup__form.css');
+
+.popup {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.5);
+  top: 0;
+  left: 0;
+  /* transform: translate(-50%, -50%); */
+}
