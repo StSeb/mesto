@@ -8,19 +8,12 @@
 @import url('../blocks/elements/elements.css');
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/popup/popup.css');
+@import url('../blocks/popup/_opened/popup_opened.css');
 
 
 
 
-
-
-
-
-
-
-
-
-body, section, div, ul, li, h1, h2, h3, h4, p, article, a, img,
+/* body, section, div, ul, li, h1, h2, h3, h4, p, article, a, img,
 footer, header, nav, svg {
   outline: 1px solid red;
-}
+} */
