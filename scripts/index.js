@@ -23,7 +23,7 @@ function formSubmitHandler (evt) {
   popupToggle();
 }
 
-// formElement.addEventListener('submit', formSubmitHandler);
+formElement.addEventListener('submit', formSubmitHandler);
 
 // let profileNameFontSize = profileName.style.fontSize;
 
