@@ -6,7 +6,7 @@
 @import url('__like/elements__like.css');
 
 .elements {
-  width: 882px;
+  max-width: 882px;
   margin: 47px auto 0;
   padding: 0;
   display: flex;
@@ -14,14 +14,14 @@
 
 @media screen and (max-width: 1100px) {
   .elements {
-    width: 700px;
+    max-width: 700px;
   }
 	
 }
 
 @media screen and (max-width: 767px) {
   .elements {
-    width: 320px;
+    max-width: 320px;
     margin: 40px auto 0;
   }
 }
